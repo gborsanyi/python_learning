@@ -1,0 +1,3 @@
+I am writing something to here, because I want to read this file later to Python
+Now I am editing this file with nano command.
+After this I exit with ctrl X
